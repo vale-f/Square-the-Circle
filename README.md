@@ -6,4 +6,4 @@ I made a little short film written in Processing and using a video editing tool.
 
 ![Square the Circle GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhzc2RxZGx2OGc2NjFpZzZvbjNpY2FtdzA5bzllMnZ6NHpxYjNhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nf9LlxbnqvKJjIgTdL/giphy.gif)
 
-![Square the Circle GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFoYWdhZzM2cW1ubzYxMGx1cHd3emI1YXFhMjZodDYwaTJyenY0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/teG74GsLbo1O97TmC5/giphy.gif)
+![Square the Circle GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdieDlyMHR0Y3l6ZmhtbnhpOGpkOGhoaHJkeTlvOThuNXN4OGRrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFvPVsQYwzVXOu63Al/giphy.gif)
