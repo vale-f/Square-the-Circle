@@ -2,7 +2,7 @@
 I made a little short film written in Processing and using a video editing tool. In this repository you can find the source code.
 
 # How it works
-Each sketch is exported as a video (with a few exported as images) and then imported into the video editing tool. The sketch numbers indicate the order, meaning that sketch_1 is at the beginning and sketches_10 at the end. Some numbers (like 10) have more than one sketch associated with them, as different videos and images are combined together in the video editing tool. Some animation and effects were done directly in the video edting tool rather than with Processing, but a lot of them were achieved just with Processing. 
+Each sketch is exported as a video (with a few exported as images) and then imported into the video editing tool. The sketch numbers indicate the order, meaning that sketch_1 is at the beginning and sketches_10 at the end. Some numbers (like 10) have more than one sketch associated with them, as different videos and images are combined together in the video editing tool. Some animation and effects were done directly in the video editing tool rather than with Processing, but a lot of them were achieved just with Processing. 
 
 ## More...
 ![Square the Circle GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ3Z2psY3U2dTFpeWc5OWxhanNuaDQ1djdka3F6Y3AxeGlmMWt2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MpFqW93419BHbVRydN/giphy.gif)
